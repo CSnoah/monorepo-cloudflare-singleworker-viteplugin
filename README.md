@@ -1,5 +1,9 @@
 # Monorepo Single Worker — React + Hono + Cloudflare Vite Plugin
 
+A full-stack application using React, Vite, Hono, and Cloudflare Workers, organized as a monorepo and deployed as a single Cloudflare Worker.
+
+The main feature of this setup is the Cloudflare Vite plugin, which integrates the React frontend and Hono Worker during development and deployment.
+
 ## Stack
 
 * **React** — frontend
